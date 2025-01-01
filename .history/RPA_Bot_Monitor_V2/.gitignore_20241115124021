@@ -1,11 +1,11 @@
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
-<<<<<<< HEAD
+
 # !**/src/main/**/target/
-=======
+
 !**/src/main/**/target/
->>>>>>> origin/dev-SakshiV2
+origin/dev-SakshiV2
 !**/src/test/**/target/
 
 ### STS ###
